@@ -21,7 +21,7 @@
 
 ```python
 class ShubhamSingh:
-    degree      = "B.Tech CSE — OP Jindal University (2022–2026) | CGPA: 7.64"
+    degree      = "B.Tech CSE — OP Jindal University (2022–2026) | CGPA: 7.92"
     role        = "Backend Engineer"
     stack       = ["Django 5.x", "PostgreSQL", "Redis", "Nginx", "Gunicorn", "Linux VPS"]
     speciality  = ["REST APIs", "RBAC Systems", "Payroll Engines", "Production Deployments"]
@@ -182,7 +182,7 @@ Every push to `main` triggers GitHub Actions: install → migrate → run 60 pyt
 
 ## 🚀 Other Projects
 
-### URL Shortener API *(In Progress)*
+### URL Shortener API 
 
 [![Repo](https://img.shields.io/badge/View%20Repo-181717?style=flat-square&logo=github&logoColor=white)](https://github.com/Subham-Singh-Dev/url-shortener-api)
 
@@ -231,7 +231,7 @@ In-memory ride-sharing platform in C++ demonstrating production-grade LLD. Plugg
 
 </div>
 
-**121 problems solved** — strong in Arrays, Strings, Linked Lists, Binary Search, Recursion.
+**150+ problems solved** — strong in Arrays, Strings, Linked Lists, Binary Search, Recursion.
 
 <br/>
 
